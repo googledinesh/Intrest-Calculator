@@ -1,0 +1,5 @@
+{
+  "name": "Interest Calculator",
+  "description": "A visually appealing and easy-to-use interest calculator. Calculate compound interest with customizable principal, rate, time, and compounding frequency. Results are displayed with a clear breakdown and an intuitive pie chart.",
+  "requestFramePermissions": []
+}
